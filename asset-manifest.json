@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adaptive-todo/static/css/main.0bcab800.css",
+    "main.js": "/adaptive-todo/static/js/main.df986b8f.js",
+    "static/js/787.3a1a103f.chunk.js": "/adaptive-todo/static/js/787.3a1a103f.chunk.js",
+    "index.html": "/adaptive-todo/index.html",
+    "main.0bcab800.css.map": "/adaptive-todo/static/css/main.0bcab800.css.map",
+    "main.df986b8f.js.map": "/adaptive-todo/static/js/main.df986b8f.js.map",
+    "787.3a1a103f.chunk.js.map": "/adaptive-todo/static/js/787.3a1a103f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bcab800.css",
+    "static/js/main.df986b8f.js"
+  ]
+}
